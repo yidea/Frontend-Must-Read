@@ -8,3 +8,4 @@ __Videos__
 
 __Reading__
 - [Why Performance Matters: The Perception Of Time](http://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/)
+- [The Power of Perceived Performance](http://www.ebaytechblog.com/2015/01/05/the-power-of-perceived-performance/)
